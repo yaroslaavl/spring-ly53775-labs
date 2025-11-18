@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-ly53775
+
+server:
+  port: 53775
